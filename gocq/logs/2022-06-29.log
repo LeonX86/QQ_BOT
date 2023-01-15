@@ -1,6 +1,0 @@
-[2022-06-29 10:37:10] [WARNING]: Protocol -> device lock is disable. http api may fail. 
-[2022-06-29 10:37:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
-[2022-06-29 10:37:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
-[2022-06-29 10:37:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
-[2022-06-29 22:11:37] [WARNING]: Protocol -> device lock is disable. http api may fail. 
-[2022-06-29 22:11:44] [WARNING]: 警告: 长消息延迟为 1082ms, 大于 1000ms, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 
